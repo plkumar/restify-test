@@ -1,0 +1,10 @@
+{
+  "name": "resify-test",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Lakshman Peethani <lakshman@nzentech.com>"
+  ],
+  "license": "ISC",
+  "homepage": ""
+}
